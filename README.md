@@ -1,5 +1,8 @@
 # boule-gbg
 
+This app was created to keep track of public boule courts, add courts to the map and use the score sheet for tracking your game.
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
